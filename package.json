@@ -1,0 +1,19 @@
+{
+  "name": "express_api_with_mongo_db",
+  "version": "1.0.0",
+  "description": "api using express and mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tarcode",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "connect-mongodb-session": "^1.1.1",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "mongodb": "^2.1.19"
+  },
+  "devDependencies": {}
+}
